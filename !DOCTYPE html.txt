@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bespoke Rehabilitation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #f4f7f8;
+      color: #333;
+    }
+    header {
+      background-color: #0066cc;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #eee;
+      color: #666;
+      margin-top: 60px;
+      font-size: 0.9em;
+    }
+    .btn-contact {
+      display: inline-block;
+      background-color: #0066cc;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+    .btn-contact:hover {
+      background-color: #004080;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Bespoke Rehabilitation</h1>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="home">
+  <h2>Welcome to Bespoke Rehabilitation</h2>
+  <p>Your personalized journey to recovery starts here. We specialize in tailored rehab programs designed just for you, combining expert care with compassionate support.</p>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>At Bespoke Rehabilitation, we understand that every individual’s recovery journey is unique. Our experienced therapists and medical professionals work closely with you to create a rehabilitation plan tailored to your specific needs and goals.</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Physical Therapy & Exercise Programs</li>
+    <li>Occupational Therapy</li>
+    <li>Pain Management</li>
+    <li>Post-surgery Rehabilitation</li>
+    <li>Personalized Wellness Coaching</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Ready to start your bespoke rehab journey or have questions? Reach out to us!</p>
+  <a class="btn-contact" href="mailto:info@bespokerehab.com">Email Us</a>
+  <p>Or call: (123) 456-7890</p>
+</section>
+
+<footer>
+  &copy; 2025 Bespoke Rehabilitation. All rights reserved.
+</footer>
+
+</body>
+</html>
